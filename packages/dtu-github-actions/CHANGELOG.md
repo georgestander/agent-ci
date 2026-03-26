@@ -1,5 +1,15 @@
 # dtu-github-actions
 
+## 0.6.0
+
+### Minor Changes
+
+- 6e53753: Post GitHub commit status via gh CLI after agent-ci run completes
+
+### Patch Changes
+
+- a987818: Simplify Docker host resolution to be OS-agnostic by default, with explicit environment-variable overrides for custom networking setups.
+
 ## 0.5.0
 
 ### Minor Changes
